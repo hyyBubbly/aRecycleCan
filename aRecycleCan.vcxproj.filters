@@ -44,6 +44,9 @@
     <ClInclude Include="drawAll.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="object.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

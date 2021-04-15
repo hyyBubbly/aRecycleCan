@@ -149,6 +149,7 @@
     <ClInclude Include="Bird.h" />
     <ClInclude Include="Column.h" />
     <ClInclude Include="drawAll.h" />
+    <ClInclude Include="object.h" />
     <ClInclude Include="upDateData.h" />
   </ItemGroup>
   <ItemGroup>
